@@ -1,6 +1,6 @@
 # Week 2 CS50
 
-All files are from week 2 of Harvard CS50X
+All files are from week 2 of Harvard CS50X - Arrays
 
 - **Readability** - A program to implement Coleman-Liau index and determine what grade the book is aimed at 📖
   - program should count the number of letters, words, and sentences in the text. You may assume that a letter is any lowercase character from a to z or any uppercase character from A to Z, any sequence of characters separated by spaces should c
